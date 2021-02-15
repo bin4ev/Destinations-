@@ -5,7 +5,7 @@
   "main": "./scripts/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./index.js"
+    "start": "node ./app.js"
   },
   "author": "Georgi Maksimov",
   "license": "ISC",
