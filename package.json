@@ -1,12 +1,12 @@
 {
   "name": "exam-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "Student-Destinations ",
   "main": "./scripts/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Georgi Maksimov",
   "license": "ISC",
   "dependencies": {
     "dep": "^0.18.3",
@@ -14,5 +14,13 @@
     "handlebars": "^4.7.6",
     "jquery": "^3.5.1",
     "sammy": "^0.7.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bin4ev/Destinations-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bin4ev/Destinations-/issues"
+  },
+  "homepage": "https://github.com/bin4ev/Destinations-#readme"
 }
