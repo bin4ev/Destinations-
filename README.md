@@ -1,1 +1,1 @@
-# Destinations-
+Web application (SPA) using HTML5, JavaScript, AJAX, REST and JSON with cloud-based backend (Firebase). The app that keeps users (destinations) and manages them. Users can register, login, logout, view a page with all treir  destinations, create a new one, edit and delete their own destinations, view a detailed page of a destination.
